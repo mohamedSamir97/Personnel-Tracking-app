@@ -1,0 +1,10 @@
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\bin\Debug\BLL.dll
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\bin\Debug\BLL.pdb
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\bin\Debug\DAL.dll
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\bin\Debug\DAL.pdb
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\obj\Debug\BLL.dll
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\obj\Debug\BLL.pdb
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\bin\Debug\DAL.dll.config
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache

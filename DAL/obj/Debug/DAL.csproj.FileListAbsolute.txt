@@ -1,0 +1,7 @@
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\bin\Debug\DAL.dll
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\bin\Debug\DAL.pdb
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\obj\Debug\DAL.dll
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\obj\Debug\DAL.pdb
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\bin\Debug\DAL.dll.config
+D:\programming courses\ASP for final project\Udemy courses\[ 1practice code on oop\PersonalTracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
